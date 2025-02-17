@@ -34,7 +34,7 @@ get discord token and save token without ''
     git clone https://github.com/abuee422/discord-auto-messager.git
     ```
     ```bash
-    cd discord-message-sender
+    cd discord-auto-messager
     ```
 2. Replace your sentences in file:
     ```bash
